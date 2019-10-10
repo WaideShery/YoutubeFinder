@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YoutubeFinder</string>
+    <string name="accessibility_service_label">Youtube Accessibility Service</string>
+</resources>
